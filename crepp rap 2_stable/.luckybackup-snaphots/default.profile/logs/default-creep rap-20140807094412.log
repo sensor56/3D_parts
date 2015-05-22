@@ -1,0 +1,23 @@
+
+=====================================<br><font color=magenta>execution of task	: <b>creep rap</b>, starting</font><br>Source	: <b><font color=blue>/home/f4gkq/Bureau/crepp rap 2</font></b><br>Destination	: <b><font color=blue>/home/f4gkq/Bureau/</font></b>
+building file list ... 
+ 0 files...34 files to consider
+
+
+Number of files: 34 (reg: 28, dir: 6)
+Number of created files: 0
+Number of deleted files: 0
+Number of regular files transferred: 0
+Total file size: 9.68M bytes
+Total transferred file size: 0 bytes
+Literal data: 0 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.002 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 1.03K
+Total bytes received: 11
+
+sent 1.03K bytes  received 11 bytes  2.07K bytes/sec
+total size is 9.68M  speedup is 9,338.41
+
